@@ -13,7 +13,7 @@ I'm an EPSRC funded PhD student in mathematics at the University of St Andrews w
 
 My research focuses on fractal geometry, but I'm also interested in dynamical systems and number theory (particularly Diophantine approximation).
 
-I'm supervised by [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/) and [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/).
+I'm supervised by [Regius Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/) and [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/).
 
 My Erdös number is 2 (Lee → Vaughan → Erdös).
 
