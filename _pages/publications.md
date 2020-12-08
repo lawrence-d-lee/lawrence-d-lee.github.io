@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ### Research Articles
+[4] Ledrappier-Young formulae for a family of nonlinear attractors (with N. Jurga), [arXiv](https://arxiv.org/abs/2012.03314)  
+*submitted.*
+
 [3] Lq-spectra of self-affine measures: closed forms, counterexamples, and split binomial sums (with J.M. Fraser, I.D. Morris, H. Yu), [arXiv](https://arxiv.org/abs/1811.03400)  
 *submitted.*
 
