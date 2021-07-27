@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 ## Talks
+Lq-spectra of measures on non-conformal attractors
+*Ergodic Theory and Dynamical Systems Seminar, University of Bristol, 6/5/21*
+
+Ledrappier-Young formulae for a family of nonlinear attractors
+*Analysis Seminar, University of St Andrews, 24/11/20*
+
+Lq-spectra of measures on non-conformal attractors
+*Junior Ergodic Theory Seminar (JETS), 23/10/20*
 
 Lq-spectra of measures on non-conformal attractors
 *Analysis Seminar, University of St Andrews, 18/2/20*
