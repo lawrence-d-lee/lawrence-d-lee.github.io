@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Lawrence D. Lee"
 title_separator          : "-"
 name                     : &name "Lawrence D. Lee"
-description              : &description "PhD Student at the University of St Andrews"
+description              : &description "EPSRC Doctoral Prize Fellow at the University of Manchester"
 url                      : https://lawrence-d-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lawrence-d-lee.github.io"
@@ -81,7 +81,7 @@ author:
   name             : ""
   avatar           : "profile.jpg"
   bio              : ""
-  employer         : "Universiy of St Andrews"
+  employer         : "Universiy of Manchester"
   location         :
   googlescholar    : 
   email            :
