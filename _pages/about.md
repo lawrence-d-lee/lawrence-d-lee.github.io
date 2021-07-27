@@ -19,9 +19,9 @@ My Erdös number is 2 (Lee → Vaughan → Erdös).
 
 ## Contact details
 
-Department of Mathematics
-The University of Manchester
-Oxford Road
-Manchester
-M13 9PL
+Department of Mathematics__
+The University of Manchester__
+Oxford Road__
+Manchester__
+M13 9PL__
 Email: lawrence dot lee at manchester dot ac dot uk
