@@ -17,6 +17,10 @@ author_profile: true
 [1] Diophantine approximation on manifolds and lower bounds for Hausdorff dimension (with V. Beresnevich, R. C. Vaughan, S.Velani), [arXiv](https://arxiv.org/abs/1712.03761)  
 **Mathematika, 63, (2017), 762-779.**
 
+### Other
+
+Multifractal measures - from self-affine to nonlinear, [St Andrews Research Repository](https://research-repository.st-andrews.ac.uk/handle/10023/23786)  
+**PhD Thesis, University of St Andrews, (2021).**
 
 {% include base_path %}
 
