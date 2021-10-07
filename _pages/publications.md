@@ -9,7 +9,7 @@ author_profile: true
 **Mathematische Zeitschrift (to appear).**
 
 [3] Lq-spectra of measures on planar non-conformal attractors (with K.J. Falconer, J.M. Fraser), [arXiv](https://arxiv.org/abs/2005.09361)  
-**Ergodic Theory and Dynamical Systems (to appear).**
+**Ergodic Theory and Dynamical Systems, 41, (2021), 3288-3306.**
 
 [2] Lq-spectra of self-affine measures: closed forms, counterexamples, and split binomial sums (with J.M. Fraser, I.D. Morris, H. Yu), [arXiv](https://arxiv.org/abs/1811.03400)  
 **Nonlinearity, 34, (2021), 6331-6357.**
