@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 ## Talks
+L^q-spectra of self-affine measures: closed forms, counterexamples, and split binomial sums
+*Dynamical Seminar, University of Exeter, 20/10/22*
+
+L^q-spectra of self-affine measures: closed forms, counterexamples, and split binomial sums
+*Junior Ergodic Theory Meeting, ICMS (Edinburgh), 29/3/22*
+
 Lq-spectra of measures on non-conformal attractors
 *Dynamical Systems Seminar, University of Liverpool, 4/11/21*
 
@@ -12,13 +18,13 @@ Lq-spectra of measures on non-conformal attractors
 *Dynamical Systems and Analysis Seminar, University of Manchester, 11/10/21*
 
 Lq-spectra of measures on non-conformal attractors
-*Ergodic Theory and Dynamical Systems Seminar, University of Bristol, 6/5/21*
+*Ergodic Theory and Dynamical Systems Seminar, University of Bristol, (online), 6/5/21*
 
 Ledrappier-Young formulae for a family of nonlinear attractors
-*Analysis Seminar, University of St Andrews, 24/11/20*
+*Analysis Seminar, University of St Andrews, (online), 24/11/20*
 
 Lq-spectra of measures on non-conformal attractors
-*Junior Ergodic Theory Seminar (JETS), 23/10/20*
+*Junior Ergodic Theory Seminar (JETS), (online), 23/10/20*
 
 Lq-spectra of measures on non-conformal attractors
 *Analysis Seminar, University of St Andrews, 18/2/20*

@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I'm an EPSRC Doctoral Prize Fellow in the Department of Mathematics at the University of Manchester, where I am working with [Dr Tom Kempton](https://personalpages.manchester.ac.uk/staff/thomas.kempton/).
+I am a Posdoctoral Research Fellow in the Department of Mathematics at the University of Manchester, where I am primarliy working with [Dr Tom Kempton](https://personalpages.manchester.ac.uk/staff/thomas.kempton/).
 
 My research focuses on fractal geometry, but I'm also interested in dynamical systems and number theory (particularly Diophantine approximation).
 
