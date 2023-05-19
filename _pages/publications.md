@@ -6,7 +6,7 @@ author_profile: true
 
 ### Research Articles
 [4] Ledrappier-Young formulae for a family of nonlinear attractors (with N. Jurga), [arXiv](https://arxiv.org/abs/2012.03314)  
-**Mathematische Zeitschrift (to appear).**
+**Mathematische Zeitschrift, 300, (2022), 2413–2427.**
 
 [3] Lq-spectra of measures on planar non-conformal attractors (with K. J. Falconer, J. M. Fraser), [arXiv](https://arxiv.org/abs/2005.09361)  
 **Ergodic Theory and Dynamical Systems, 41, (2021), 3288-3306.**
