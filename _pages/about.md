@@ -13,7 +13,7 @@ I am a Posdoctoral Research Fellow in the Department of Mathematics at the Unive
 
 My research focuses on fractal geometry, but I'm also interested in dynamical systems and number theory (particularly Diophantine approximation).
 
-Prior to Manchester I was an EPSRC funded PhD student at the University of St Andrews, where I was supervised by [Regius Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/) and [Professor Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/).
+Prior to Manchester I was an EPSRC funded PhD student at the University of St Andrews, where I was supervised by [Regius Professor Kenneth Falconer](https://kennethfalconer.github.io/) and [Professor Jonathan Fraser](https://jonathan-fraser.github.io/homepage/).
 
 My Erdös number is 2 (Lee → Vaughan → Erdös).
 
