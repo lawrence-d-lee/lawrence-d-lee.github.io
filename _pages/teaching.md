@@ -7,26 +7,8 @@ author_profile: true
 
 
 
-## Teaching at St Andrews
+I have taught numerous undergraduate tutorials, and I have received consistently high feedback. On the last course I taught on I received the highest feedback of all the tutors, including the course lead.
 
-### 2020 - 2021
-Tutor for MT2502 Analysis, Autumn.
-
-### 2019 - 2020
-Tutor for MT1002 Mathematics, Spring.
-
-Tutor for MT2502 Analysis, Autumn.
-
-
-### 2018 - 2019
-Tutor for MT1002 Mathematics, Spring.
-
-Tutor for MT2502 Analysis, Autumn.
-
-
-### 2017 - 2018
-Tutor for MT1002 Mathematics, Spring.
-
-Tutor for MT2502 Analysis, Autumn.
+I have also covered some lectures for third year courses.
 
 
