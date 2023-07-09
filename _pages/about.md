@@ -13,6 +13,8 @@ I am a Posdoctoral Research Fellow in the Department of Mathematics at the Unive
 
 My research focuses on fractal geometry, but I'm also interested in dynamical systems and number theory (particularly Diophantine approximation).
 
+I am currently transitioning to a career in data science and machine learning, and I recently built an interactive app for predicting UK house prices (for more details please see my [software](https://lawrence-d-lee.github.io/software/) page and my [GitHub](https://github.com/lawrence-d-lee/housing-app)).
+
 Prior to Manchester I was an EPSRC funded PhD student at the University of St Andrews, where I was supervised by [Regius Professor Kenneth Falconer](https://kennethfalconer.github.io/) and [Professor Jonathan Fraser](https://jonathan-fraser.github.io/homepage/).
 
 My Erdös number is 2 (Lee → Vaughan → Erdös).
